@@ -1,0 +1,52 @@
+[
+    {
+        "key": "default",
+        "target": "head",
+        "routine": [{"name": "Neutral", "duration": 1}]
+    },
+    {
+        "key": "happy",
+        "target": "head",
+        "routine": [{"name": "Happy", "duration": 1}]
+    },
+    {
+        "key": "very_happy",
+        "target": "head",
+        "routine": [{"name": "Very_happy", "duration": 1}]
+    },
+    {
+        "key": "suprised",
+        "target": "head",
+        "routine": [{"name": "Surprised", "duration": 1}]
+    },
+    {
+        "key": "interested",
+        "target": "head",
+        "routine": [{"name": "Interested", "duration": 1}]
+    },
+    {
+        "key": "explaining",
+        "target": "head",
+        "routine": [{"name": "Explaining", "duration": 1}]
+    },
+    {
+        "key": "sorry",
+        "target": "head",
+        "routine": [{"name": "Compassionate", "duration": 1}]
+    },
+    {
+        "key": "proud",
+        "target": "head",
+        "routine": [{"name": "Proud", "duration": 1}]
+    },
+    {
+        "key": "angry_frown",
+        "target": "head",
+        "routine": [{"name": "Frowning", "duration": 1}]
+    },
+    {
+        "key": "compassionate_neutral",
+        "target": "head",
+        "routine": [{"name": "Compassionate", "duration": 1}, {"name": "Neutral", "duration": 10}]
+    }
+]

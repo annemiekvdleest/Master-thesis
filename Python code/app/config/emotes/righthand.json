@@ -1,0 +1,42 @@
+[
+    {
+        "key": "default",
+        "target": "rightHand",
+        "routine": [{"name": "Right_neutral", "duration": 1}]
+    },
+    {
+        "key": "wave",
+        "target": "rightHand",
+        "routine": [
+                    {"name": "Right_wave_high", "duration": 0.3},
+                    {"name": "Right_wave_mid", "duration": 0.3},
+                    {"name": "Right_wave_low", "duration": 0.3},
+                    {"name": "Right_wave_mid", "duration": 0.3}
+        ]
+    },
+    {
+        "key": "explaining",
+        "target": "rightHand",
+        "routine": [{"name": "Right_explaining", "duration": 1}]
+    },
+    {
+        "key": "point_up",
+        "target": "rightHand",
+        "routine": [{"name": "Right_point_up", "duration": 1}]
+    },
+    {
+        "key": "point_mid",
+        "target": "rightHand",
+        "routine": [{"name": "Right_point_mid", "duration": 1}]
+    },
+    {
+        "key": "point_down",
+        "target": "rightHand",
+        "routine": [{"name": "Right_point_down", "duration": 1}]
+    },
+    {
+        "key": "thumbs_up",
+        "target": "rightHand",
+        "routine": [{"name": "Right_thumbs_up", "duration": 1}]
+    }
+]

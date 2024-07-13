@@ -1,0 +1,52 @@
+Ja (Nederlands)	Ja (Buitenlands)	Nee (Nederlands)	Nee (Buitenlands)	Misschien (Nederlands)	Misschien (Buitenlands)
+Ja	Yes	Nee	No	Misschien	Maybe
+Zeker	Okay	Niet	Nope	Weet ik niet	don't know
+Absoluut	Alright	Nooit	Nein	Onzeker	dont know
+Natuurlijk	Sure	Geenszins	Non	niet zeker	Perhaps
+Uiteraard	Cool	Negatief	Nada	is mogelijk	Possibly
+Jazeker	Fine	Absoluut niet	Njet	Wie weet	Unsure
+Wel	Alrighty	Zeker niet	Nie	Mogelijk	Dunno
+Akkoord	Affirmative	Helemaal niet	No way	Ik twijfel	Could be
+Prima	Yup	geen geval	Nah	zou kunnen	unertain
+Oke	Absolutely	Voor geen goud		Geen idee	Je ne sais pas
+Tuurlijk	Aye	Beslist niet		niet zeker	C'est possible
+Graag	Right	Nimmer		niet uitgesloten	Not sure
+Ja hoor	Okey-dokey	Totaal niet		kan zijn	cest possible
+Klopt	OK	Echt niet		Eventueel	
+Precies	Roger	Geen sprake van		Twijfelachtig	
+Jawel	D'accord	geen enkel		Niet helemaal zeker	
+Inderdaad	Si	geen		dubio	
+Jaja	Oui	Onmogelijk		afwachten	
+Helemaal	Yes indeed	uitgesloten		geen idee	
+Goed	Of course	definitief niet		niet duidelijk	
+Beslist	Absolutely			onduidelijk	
+Vooruit	Indeed			onbeslist	
+Jep	True			moeilijk	
+Jup				durf ik niet	
+Jot				midden	
+is waar				niet definitief	
+Jaa				niet honderd	
+Vanzelfsprekend				mwah	
+Duh				mwa	
+lijkt me wel				beetje	
+best				tikkie	
+Waarom niet				poeh	
+zonder twijfel				min of meer	
+geen twijfel				niet echt	
+vooruit				enigszins	
+beslist				vleugje	
+definitief				ietwat	
+honderd procent				ongeveer	
+				zoiets	
+				ofzo	
+				gedeeltijk	
+				hangt erom	
+				hangt er vanaf	
+				in zekere  zin	
+				fractie	
+					
+					
+					
+					
+					
+					

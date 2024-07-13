@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Liz Dialogue Message history</title>
+    <script>
+        function serverCall(button_id) {
+            const request = new Request("http://localhost:2020/start_dialogue/" + button_id);
+            fetch(request, {method: 'POST'})
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error("Network response was not ok");
+                    }
+                    return response.json();
+                })
+                .catch(error => {
+                    console.error("There was a problem with the fetch operation:", error);
+                });
+        }
+    </script>
+</head>
+<body>
+    <h1>Start buttons</h1>
+    <button id="1" onclick="serverCall(this.id)">Non-empathic version</button>
+    <button id="2" onclick="serverCall(this.id)">Basic empathy version</button>
+    <button id="3" onclick="serverCall(this.id)">Rich empathy version</button>
+    <h1>Message History</h1>
+    {% for table in tables %}
+                {{titles[loop.index]}}
+                {{ table|safe }}
+    {% endfor %}
+</body>
+</html>

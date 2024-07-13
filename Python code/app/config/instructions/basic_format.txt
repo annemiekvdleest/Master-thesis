@@ -1,0 +1,24 @@
+----- RESPONSE FORMAT -----
+Your response should be a json object, with the following fields.
+Text denoted between <> must be filled in by you.
+
+{
+  "message": "<message to your patient>",
+  "emotes": {
+    "head": "<choose appropriate facial expression from 'default', 'sorry', 'proud', 'compassionate_neutral'>",
+    "leftHand": "<choose appropriate hand gesture from 'default', 'thumbs_up'>",
+    "rightHand": "<choose appropriate hand gesture from 'default', 'thumbs_up'>",
+  },
+}
+
+1. "message":
+After the user indicates how (s)he is feeling, choose between:
+1. Wat vervelend om te horen dat het niet goed gaat.
+2. Ik hoop dat je je snel beter voelt.
+3. Goed om te horen!
+Choose 1. if the user feels bad, choose 2. if the user feels okay or moderate, choose 3. if the user feels good.
+
+2. "emotes"
+If your reaction is "Wat vervelend om te horen dat het niet goed gaat.": {"head": "sorry", "leftHand": "default", "rightHand": "default"}
+If your reaction is "Ik hoop dat je je snel beter voelt.": {"head": "compassionate_neutral", "leftHand": "default", "rightHand": "default"}
+If your reaction is "Goed om te horen!": {"head": "proud", "leftHand": "thumbs_up", "rightHand": "default"}

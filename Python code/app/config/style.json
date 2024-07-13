@@ -1,0 +1,19 @@
+{
+  "color" :
+  {
+      "red" : {"hexColor": "#FF0000"},
+      "orange" : {"hexColor": "#FFA500"},
+      "green" : {"hexColor": "#00D318"},
+      "light-green" : {"hexColor": "#58E866"},
+      "light" : {"hexColor": "#E8E8E8"},
+      "pastel-gray": {"hexColor": "#DBDBDB"},
+      "pastel-pink" : {"hexColor": "#FEDFE7"},
+      "pastel-yellow" : {"hexColor": "#FFFFDB"},
+      "pastel-blue" : {"hexColor": "#E0F8FA"},
+      "pastel-green" : {"hexColor": "#C7F0E0"},
+      "pastel-red" : {"hexColor": "#FFB09F"},
+      "pastel-purple" : {"hexColor": "#D1CBEF"},
+      "pastel-white" : {"hexColor": "#FFF6ED"},
+      "pastel-orange" : {"hexColor":  "#FFD6A6"}
+  }
+}

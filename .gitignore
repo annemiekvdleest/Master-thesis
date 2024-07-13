@@ -1,0 +1,8 @@
+.idea/*
+__pycache__/
+*.log
+*.dat
+app/server_id
+venv/
+*.env*
+*.wav
